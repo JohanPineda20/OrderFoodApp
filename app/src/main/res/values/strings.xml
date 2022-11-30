@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">OrderFoodApp</string>
     <string name="page_title">Food Delivery App</string>
+    <string name="todo">TODO</string>
+    <string name="ordena_y_come_lo_que_desees">Ordena y come lo que desees</string>
+    <string name="hola_usuario">Hola Sara!</string>
+    <string name="todo_01">TODO</string>
+    <string name="busca_lo_que_quieres">Busca lo que quieres</string>
+    <string name="todo_02">TODO</string>
+    <string name="ordena_ahora_es_momento_de_comer">Ordena ahora, es momento de comer</string>
+    <string name="categorias">Categorias</string>
 </resources>
